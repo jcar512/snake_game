@@ -1,6 +1,7 @@
+# Snake Game
 A simple Snake Game built in Python using the Turtle graphics library.
 
-How to Play
+## How to Play
 
 Use the arrow keys (Up, Down, Left, Right) to control the snake's direction.
 
