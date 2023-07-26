@@ -1,6 +1,15 @@
 # Snake Game
 A simple Snake Game built in Python using the Turtle graphics library.
 
+## Installation
+1. Clone this repository to your local machine using git clone.
+2. Navigate to the project directory in your terminal.
+3. Run the game using the terminal: ```python main.py```
+
+## Requirements
+- Python 3.x
+- The Turtle graphics library is included in the standard Python distribution.
+  
 ## How to Play
 
 Use the arrow keys (Up, Down, Left, Right) to control the snake's direction.
